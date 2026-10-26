@@ -6,6 +6,7 @@ A console based basic Accounting Software which takes single line Journal entrie
 2. It can provide with the Ledger balances of the account one searches for.
 3. It can provide with the Trial balance to check the arithmetic accuracy of the accounts.
 4. All the data gets stored in .bin files.
+5. A proper traditional format (used in the Journal, Ledger and Trial Balance) has been maintained. 
 
 ## Limitations
 1. The debit and credit side entry along with the description can only store in them a maximum of 30 characters.
