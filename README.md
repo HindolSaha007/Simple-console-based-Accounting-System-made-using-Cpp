@@ -1,5 +1,5 @@
 # Simple-console-based-Accounting-Software-made-using-Cpp
-A console based basic Accounting Software which takes single line Journal entries, can provide Ledger balances and provide with Trial balance to check the arithmetic correction of the accounts.
+A console based basic Accounting System which takes single line Journal entries, can provide Ledger balances and provide with Trial balance to check the arithmetic correction of the accounts.
 
 ## Features 
 1. It can accept single Journal entries (one debit and one credit entry), along with date and description.
